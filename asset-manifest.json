@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/list_of_todos_app/static/css/main.f206976d.chunk.css",
+    "main.js": "/list_of_todos_app/static/js/main.08179dc1.chunk.js",
+    "main.js.map": "/list_of_todos_app/static/js/main.08179dc1.chunk.js.map",
+    "runtime-main.js": "/list_of_todos_app/static/js/runtime-main.397501f9.js",
+    "runtime-main.js.map": "/list_of_todos_app/static/js/runtime-main.397501f9.js.map",
+    "static/js/2.7156f153.chunk.js": "/list_of_todos_app/static/js/2.7156f153.chunk.js",
+    "static/js/2.7156f153.chunk.js.map": "/list_of_todos_app/static/js/2.7156f153.chunk.js.map",
+    "index.html": "/list_of_todos_app/index.html",
+    "precache-manifest.9ae9a49e65263ba8a7ed5f61533a2a51.js": "/list_of_todos_app/precache-manifest.9ae9a49e65263ba8a7ed5f61533a2a51.js",
+    "service-worker.js": "/list_of_todos_app/service-worker.js",
+    "static/css/main.f206976d.chunk.css.map": "/list_of_todos_app/static/css/main.f206976d.chunk.css.map",
+    "static/js/2.7156f153.chunk.js.LICENSE": "/list_of_todos_app/static/js/2.7156f153.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.397501f9.js",
+    "static/js/2.7156f153.chunk.js",
+    "static/css/main.f206976d.chunk.css",
+    "static/js/main.08179dc1.chunk.js"
+  ]
+}
